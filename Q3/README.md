@@ -10,8 +10,8 @@ asu_Hyades.fit     -------raw data from Vizier:Pan-STARRS1 (PS1) observations of
 asu_NGC752.fit    ------- Photometry and radial velocities in NGC752 (Daniel+, 1994)  
 
 ## query for Q3_e
-website:http://tapvizier.u-strasbg.fr/adql/
-SELECT "ra", "dec","parallax","phot_g_mean_mag", "bp_rp"
-FROM "I/345/gaia2"
-where "ra" between 50 and 50.5
-and  "dec" between 18 and 18.5
+website:http://tapvizier.u-strasbg.fr/adql/  
+SELECT "ra", "dec","parallax","phot_g_mean_mag", "bp_rp"  
+FROM "I/345/gaia2"  
+where "ra" between 50 and 50.5  
+and  "dec" between 18 and 18.5  
