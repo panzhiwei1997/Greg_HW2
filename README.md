@@ -1,4 +1,4 @@
-# Greg_HW2
+# Stellar Astronomy
 
 HW2_panzhiwei.docx: answers of Q4-Q6  
   
